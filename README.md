@@ -1,7 +1,7 @@
 # Customer-Trend-Analysis
 > **Project Overview**
 
-This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The goal is to identify spending patterns, customer segments, product preferences, and subscription trends to support strategic business decisions.
+This project analyzes customer Trend using transactional data from 3,900 purchases across multiple product categories. The goal is to identify spending patterns, customer segments, product preferences, and subscription trends to support strategic business decisions.
 
 > **Dataset Summary**
 
@@ -102,11 +102,14 @@ b. Strengthened understanding of ETL, data modeling, and dashboard storytelling.
 c. Improved ability to generate actionable insights for business decisions.
 
 > **About Analyst**
+
 Neha Pal
+
 LinkedIn: www.linkedin.com/in/nehapal3355
+
 Email: neha.pal.3355@gmail.com
 
 
-🏷️ Tags
+> **Tags**
 
 #Python #SQL #PowerBI #DataAnalytics #Dashboard #CustomerInsights #BusinessIntelligence
